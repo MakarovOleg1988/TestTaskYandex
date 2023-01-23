@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskYandex", "TestTaskYandex\TestTaskYandex.csproj", "{CD61976A-BCDF-4AE5-9E0C-BA2F75A064CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD61976A-BCDF-4AE5-9E0C-BA2F75A064CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD61976A-BCDF-4AE5-9E0C-BA2F75A064CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD61976A-BCDF-4AE5-9E0C-BA2F75A064CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD61976A-BCDF-4AE5-9E0C-BA2F75A064CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47F5335-455B-4921-94B6-E53FAEAE86C7}
+	EndGlobalSection
+EndGlobal
